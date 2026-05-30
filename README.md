@@ -1,45 +1,29 @@
-# science-blog-hrv
+# Blog Científico sobre la Variabilidad de la Frecuencia Cardíaca (HRV)
 
+Este repositorio contiene el código fuente y el contenido del **Blog Científico HRV**, una iniciativa de ciencia abierta dedicada a la divulgación profesional de la fisiología humana y el sistema nervioso autónomo.
 
-## How to Cite
+## Cómo Citar
 
-If you use this repository in your research, please cite:
+Si utiliza los recursos de este repositorio en su investigación o publicaciones, por favor cite:
 
-> de la Serna, J. M. (2026). *Science Blog Hrv*. Universidad Internacional de La Rioja (UNIR).
+> de la Serna, J. M. (2026). *Blog Científico HRV*. Universidad Internacional de La Rioja (UNIR).
 > https://github.com/juanmoisesd/science-blog-hrv 
 
-See `CITATION.cff` for formatted references.
+Consulte `CITATION.cff` para obtener referencias en formato estructurado.
 
-## Overview
-This repository contains data and resources related to **science blog hrv**. It is part of an open science initiative to share research findings and datasets with the global scientific community.
+## Descripción General
+Este proyecto forma parte de una iniciativa de ciencia abierta para compartir hallazgos de investigación y conjuntos de datos con la comunidad científica global, presentados de una manera accesible pero rigurosa.
 
-## Research Context
-The project addresses key questions in the field of neuroscience and social sciences, focusing on providing accessible data for further analysis and validation.
+## Contexto de Investigación
+El proyecto aborda preguntas clave en los campos de la neurociencia y las ciencias sociales, centrándose en proporcionar datos accesibles para un análisis y validación más profundos, específicamente a través del estudio de la variabilidad del ritmo cardíaco.
 
-## Repository Structure
-- `data/`: Contains the datasets used in this research.
-- `src/`: Source code for data processing and analysis.
-- `results/`: Output files, figures, and metrics.
+## Estructura del Repositorio
+- `docs/`: Contiene el sitio web completo publicado en GitHub Pages.
+- `docs/articulos/`: Artículos de investigación extensos y detallados.
+- `docs/assets/`: Recursos visuales y estilos CSS.
 
-## Usage
-To use the resources in this repository, clone the project and ensure you have the necessary dependencies installed. Refer to the specific documentation in each folder for more details.
+## Uso
+Para visualizar el blog, visite la URL de GitHub Pages asociada a este repositorio. Para uso local, clone el proyecto y abra `docs/index.html` en su navegador.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Overview
-This repository contains data and resources related to **science blog hrv**. It is part of an open science initiative to share research findings and datasets with the global scientific community.
-
-## Research Context
-The project addresses key questions in the field of neuroscience and social sciences, focusing on providing accessible data for further analysis and validation.
-
-## Repository Structure
-- `data/`: Contains the datasets used in this research.
-- `src/`: Source code for data processing and analysis.
-- `results/`: Output files, figures, and metrics.
-
-## Usage
-To use the resources in this repository, clone the project and ensure you have the necessary dependencies installed. Refer to the specific documentation in each folder for more details.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
